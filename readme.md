@@ -1,6 +1,7 @@
 ## Pattern recognition tasks
+Tasks 6 and 5 only.
 
-Task 6:
+### Task 6:
 
 1. Model a random sample of n-dimension objects.
 
@@ -20,11 +21,11 @@ Task 6:
 
 You'll need a `test.txt` to define the number of classes, the number of dimensions, prior probabilities, for each class its distribution parameters. Using QtCreator open `lab6.pro`, run the project. Input the size of a training sample in a textbox signed `N train`, the size of a test sample in a `N test` textbox, click `Model` to model the sample, click `test` to test a chosen classifier.
 
-![img](img\task6.jpg)
+![img](/img/task6.jpg)
 
 
 
-Task 5 (Bayesian classifier):
+### Task 5 (Bayesian classifier):
 
 1. Model a random sample of n-dimension objects.
 
@@ -46,7 +47,7 @@ You'll need a `config.txt` to define the number of classes, the number of dimens
 
 The first plot is min error classification, the second is modelled data, the third plot is min risk classification, colors represent classes.
 
-![img](img\task5.jpg)
+![img](/img/task5.jpg)
 
 
 
