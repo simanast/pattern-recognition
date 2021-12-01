@@ -1,5 +1,7 @@
 ## Pattern recognition tasks
-Tasks 6 and 5 only.
+
+Tasks 6 and 5 of a university 'pattern recognition' basic course.  
+Qt plotting widget - [QCustomPlot](https://www.qcustomplot.com/).
 
 ### Task 6:
 
